@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "b555ba0788d5d174",
+    "type": "split",
+    "children": [
+      {
+        "id": "a26b546f22d525d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be73dca33810f644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas de diseño de algoritmos (Tema).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tecnicas de diseño de algoritmos (Tema)"
+            }
+          },
+          {
+            "id": "28b67e2c01593929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.º año/Paradigmas Programacion/Paradigma funcional/foldr.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "foldr"
+            }
+          },
+          {
+            "id": "c627fe9f72cb83b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Divide & Conquer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Divide & Conquer"
+            }
+          },
+          {
+            "id": "a8e8f332ab3efd63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Fuerza bruta.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fuerza bruta"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19275ddc18e04e1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b090c3c65e009fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08544e1a2738e4aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af95f7e4cfffa367",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26f58b1332601d35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "36621e22fa43fe87",
+    "type": "split",
+    "children": [
+      {
+        "id": "b06200795dc1f5ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "876d9630f3157af0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-03-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-03-28"
+            }
+          },
+          {
+            "id": "8154c64cf40ffb05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-03-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-03-28"
+            }
+          },
+          {
+            "id": "367b4d8d9362b3bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2be37a08cfb0c787",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-03-28.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-03-28"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "28b67e2c01593929",
+  "lastOpenFiles": [
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Esquemas de recursion.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/foldr.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas de diseño de algoritmos (Tema).md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Fuerza bruta.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Divide & Conquer.md",
+    "2025-04-04.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Funcion.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Demostraciones.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Tipos de datos.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Tipos Algebraicos.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Programacion dinamica.md",
+    "2.º año/Sistemas Digitales/Algebra de Boole.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Paradigma funcional.md",
+    "2025-03-31.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Técnicas de Diseño de Algoritmos.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Backtracking.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Ejercicios.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Arboles.md",
+    "2.º año/Paradigmas Programacion/Ejercicios.md",
+    "Licenciatura en Ciencias de la Computación.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Grafos.md",
+    "Pattern matching.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Polimorfismo.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Expresiones.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Haskell.md",
+    "2.º año/Sistemas Digitales/Ejercicios.md",
+    "Imagenes/Pasted image 20250331112411.png",
+    "Imagenes/Pasted image 20250322153418.png",
+    "Imagenes",
+    "Imagenes/Pasted image 20250321141458.png",
+    "Excalidraw",
+    "2.º año",
+    "Pasted image 20250322152914.png",
+    "Pasted image 20250321141440.png",
+    "2.º año/Paradigmas Programacion/Paradigma funcional",
+    "2.º año/Sistemas Digitales",
+    "2.º año/Paradigmas Programacion",
+    "2.º año/Técnicas de Diseño de Algoritmos"
+  ]
+}

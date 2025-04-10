@@ -1,0 +1,18 @@
+{
+  "promptDelete": false,
+  "vimMode": false,
+  "newFileLocation": "root",
+  "tabSize": 4,
+  "spellcheckDictionary": [
+    "implementativas",
+    "Overflow",
+    "XOR",
+    "Int",
+    "Bool",
+    "tipado",
+    "tipado"
+  ],
+  "autoPairMarkdown": false,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
+}

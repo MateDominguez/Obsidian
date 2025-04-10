@@ -1,0 +1,4 @@
+.callout[data-callout="obs"] {
+    --callout-color: 255, 204, 0;
+    --callout-icon: lucide-search;
+}

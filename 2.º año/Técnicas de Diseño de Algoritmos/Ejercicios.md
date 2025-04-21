@@ -24,7 +24,7 @@ Complejidad del llamado recursivo: $\theta(2^N)$
 Complejidad de evaluar la funcion: $O(1)$
 Complejidad:$O(2^N)$
 
-### Rod cutting ([[Programacion dinamica|PD]])
+### Rod cutting ([[Programación Dinámica|PD]])
 Tenemos una barra de tamano $n$ que podemos partir en barras de igual o menor taman, una lista de precios $P$ segun el tamano de la barra y queremos maximizar la ganancia.
 
 Caso base: $Ganancia[0]=0$
@@ -304,7 +304,7 @@ a)
 MagiC(D):
 	n = len(D)
 	nums = set()
-	for i in range(1,n**2+1):
+	for i in range(1,n+1):
 		nums.add(i)
 
 	M = []
@@ -331,7 +331,7 @@ MagiC(D):
 	
 	return min(map(cuentaLoca, backtrack(D)))
 ```
-b) 
+c)  
 
 # Practica 3: Intro. a la teoria algoritmica de grafos
 

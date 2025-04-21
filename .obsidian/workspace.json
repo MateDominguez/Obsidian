@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a26b546f22d525d9",
+        "id": "a174fe905cf8a851",
         "type": "tabs",
         "children": [
           {
-            "id": "be73dca33810f644",
+            "id": "6806da6f404804c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas de diseño de algoritmos (Tema).md",
+                "file": "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos/Depth-first search.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tecnicas de diseño de algoritmos (Tema)"
+              "title": "Depth-first search"
             }
           },
           {
-            "id": "28b67e2c01593929",
+            "id": "55dfa55ee6a3a31d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.º año/Paradigmas Programacion/Paradigma funcional/foldr.md",
+                "file": "Topological sort.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "foldr"
+              "title": "Topological sort"
             }
           },
           {
-            "id": "c627fe9f72cb83b5",
+            "id": "e2349553371637f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Divide & Conquer.md",
+                "file": "2.º año/Técnicas de Diseño de Algoritmos/Camino minimo en digrafos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Divide & Conquer"
+              "title": "Camino minimo en digrafos"
             }
           },
           {
-            "id": "a8e8f332ab3efd63",
+            "id": "9effc60d4d74ffd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Fuerza bruta.md",
+                "file": "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos/Bellman-Ford.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fuerza bruta"
+              "title": "Bellman-Ford"
+            }
+          },
+          {
+            "id": "6c3ff34675557f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.º año/Técnicas de Diseño de Algoritmos/Grafos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grafos"
             }
           }
         ],
@@ -252,36 +276,38 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "28b67e2c01593929",
+  "active": "55dfa55ee6a3a31d",
   "lastOpenFiles": [
-    "2.º año/Paradigmas Programacion/Paradigma funcional/Esquemas de recursion.md",
-    "2.º año/Paradigmas Programacion/Paradigma funcional/foldr.md",
-    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas de diseño de algoritmos (Tema).md",
-    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Fuerza bruta.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos/Depth-first search.md",
+    "Topological sort.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos/Bellman-Ford.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Grafos.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Camino minimo en digrafos.md",
+    "Imagenes/Pasted image 20250421012358.png",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Programación Dinámica.md",
+    "2025-04-11.md",
+    "2025-04-14.md",
     "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Divide & Conquer.md",
-    "2025-04-04.md",
-    "2.º año/Paradigmas Programacion/Paradigma funcional/Funcion.md",
-    "2.º año/Paradigmas Programacion/Paradigma funcional/Demostraciones.md",
-    "2.º año/Paradigmas Programacion/Paradigma funcional/Tipos de datos.md",
-    "2.º año/Paradigmas Programacion/Paradigma funcional/Tipos Algebraicos.md",
-    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Programacion dinamica.md",
-    "2.º año/Sistemas Digitales/Algebra de Boole.md",
-    "2.º año/Paradigmas Programacion/Paradigma funcional/Paradigma funcional.md",
-    "2025-03-31.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos/Breadth-first search.md",
     "2.º año/Técnicas de Diseño de Algoritmos/Técnicas de Diseño de Algoritmos.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas de diseño de algoritmos (Tema).md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos/Algoritmos golosos.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos/Algoritmo.md",
+    "2025-03-31.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Fuerza bruta.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos/Floyd-Warshall.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Ejercicios.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Backtracking.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Demostraciones.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Divide & Conquer 1.md",
+    "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos/Algoritmos heuristicos.md",
+    "Algoritmos",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Expresiones.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Polimorfismo.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Funcion.md",
+    "2.º año/Paradigmas Programacion/Paradigma funcional/Tipos de datos.md",
     "2.º año/Técnicas de Diseño de Algoritmos/Algoritmos",
     "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas",
-    "2.º año/Técnicas de Diseño de Algoritmos/Tecnicas/Backtracking.md",
-    "2.º año/Técnicas de Diseño de Algoritmos/Ejercicios.md",
-    "2.º año/Paradigmas Programacion/Paradigma funcional/Arboles.md",
-    "2.º año/Paradigmas Programacion/Ejercicios.md",
-    "Licenciatura en Ciencias de la Computación.md",
-    "2.º año/Técnicas de Diseño de Algoritmos/Grafos.md",
-    "Pattern matching.md",
-    "2.º año/Paradigmas Programacion/Paradigma funcional/Polimorfismo.md",
-    "2.º año/Paradigmas Programacion/Paradigma funcional/Expresiones.md",
-    "2.º año/Paradigmas Programacion/Paradigma funcional/Haskell.md",
-    "2.º año/Sistemas Digitales/Ejercicios.md",
     "Imagenes/Pasted image 20250331112411.png",
     "Imagenes/Pasted image 20250322153418.png",
     "Imagenes",

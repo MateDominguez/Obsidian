@@ -31,3 +31,4 @@ representa una funcion que recibe un parametro $x$ y devuelve $e$.
 
 
 ### Aplicacion parcial
+Las funciones en [[Haskell]] siempre toman un unico argumento.

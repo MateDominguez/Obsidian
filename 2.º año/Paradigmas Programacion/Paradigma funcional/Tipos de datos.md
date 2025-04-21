@@ -1,6 +1,6 @@
 Un tipo es una especificación del invariante de un dato o de una función.
-El tipo de una función expresa un contrato.
 
+El tipo de una función expresa un contrato.
 ### Tipos
 * Char
 * Int

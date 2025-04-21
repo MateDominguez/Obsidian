@@ -1,4 +1,4 @@
-Haskell es un [[Paradigma funcional|lenguaje funcional]]. 
+Haskell es un [[Programacion funcional|lenguaje funcional]]. 
 
 [[Expresiones]]
 [[Tipos de datos]]

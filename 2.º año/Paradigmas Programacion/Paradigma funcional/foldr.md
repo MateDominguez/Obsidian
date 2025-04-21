@@ -1,4 +1,4 @@
-En la [[Paradigma funcional|programación funcional]] fold es la operacion estandar que encapsula el patron de [[Esquemas de recursion#Recursion estructural|recursion estructural]].
+En la [[Programacion funcional|programación funcional]] fold es la operacion estandar que encapsula el patron de [[Esquemas de recursion#Recursion estructural|recursion estructural]].
 
 # foldr para listas
 ```
